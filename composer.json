@@ -38,7 +38,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.7.x-dev"
+            "dev-psql10": "2.7.x-dev"
         }
     },
     "archive": {
